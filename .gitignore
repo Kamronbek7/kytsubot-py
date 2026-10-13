@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.py[cod]
+.venv/
+.gitignore2
+inside-readme.md
 
 # C extensions
 *.so
